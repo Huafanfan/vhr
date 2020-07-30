@@ -2,16 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b9260a1-2e4f-4ac7-a490-9fde74f971ae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/vhr/mailserver/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/mailserver/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhr/vhr.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-mapper/vhr-mapper.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/vhr-model.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-service/vhr-service.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/src/main/resources/db/migration/V1__vhr.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/vhr-web.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhrserver.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/mailserver/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/mailserver/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/mailserver/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/mailserver/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/mailserver/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/mailserver/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhr.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-mapper/vhr-mapper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-mapper/vhr-mapper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/target/classes/org/javaboy/vhr/model/AdjustSalary.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/target/classes/org/javaboy/vhr/model/AdjustSalary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/target/classes/org/javaboy/vhr/model/Appraise.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/target/classes/org/javaboy/vhr/model/Appraise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/target/classes/org/javaboy/vhr/model/Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/target/classes/org/javaboy/vhr/model/Department.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/target/classes/org/javaboy/vhr/model/Employeeec.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/target/classes/org/javaboy/vhr/model/Employeeec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/target/classes/org/javaboy/vhr/model/Employeeremove.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/target/classes/org/javaboy/vhr/model/Employeeremove.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/target/classes/org/javaboy/vhr/model/Employeetrain.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/target/classes/org/javaboy/vhr/model/Employeetrain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/target/classes/org/javaboy/vhr/model/Hr.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/target/classes/org/javaboy/vhr/model/Hr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/target/classes/org/javaboy/vhr/model/MsgContent.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/target/classes/org/javaboy/vhr/model/MsgContent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/target/classes/org/javaboy/vhr/model/Nation.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/target/classes/org/javaboy/vhr/model/Nation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/target/classes/org/javaboy/vhr/model/OpLog.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/target/classes/org/javaboy/vhr/model/OpLog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/target/classes/org/javaboy/vhr/model/Politicsstatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/target/classes/org/javaboy/vhr/model/Politicsstatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/target/classes/org/javaboy/vhr/model/Position.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/target/classes/org/javaboy/vhr/model/Position.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/target/classes/org/javaboy/vhr/model/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/target/classes/org/javaboy/vhr/model/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/vhr-model.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-model/vhr-model.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-service/target/classes/org/javaboy/vhr/config/RabbitConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-service/target/classes/org/javaboy/vhr/config/RabbitConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-service/target/classes/org/javaboy/vhr/service/EmployeeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-service/target/classes/org/javaboy/vhr/service/EmployeeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-service/target/classes/org/javaboy/vhr/service/HrService.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-service/target/classes/org/javaboy/vhr/service/HrService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-service/target/classes/org/javaboy/vhr/service/MenuService.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-service/target/classes/org/javaboy/vhr/service/MenuService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-service/target/classes/org/javaboy/vhr/task/MailSendTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-service/target/classes/org/javaboy/vhr/task/MailSendTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-service/target/classes/org/javaboy/vhr/utils/POIUtils$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-service/target/classes/org/javaboy/vhr/utils/POIUtils$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-service/target/classes/org/javaboy/vhr/utils/POIUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-service/target/classes/org/javaboy/vhr/utils/POIUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-service/vhr-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-service/vhr-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/target/classes/org/javaboy/vhr/config/CustomFilterInvocationSecurityMetadataSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/target/classes/org/javaboy/vhr/config/CustomFilterInvocationSecurityMetadataSource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/target/classes/org/javaboy/vhr/config/CustomUrlDecisionManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/target/classes/org/javaboy/vhr/config/CustomUrlDecisionManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/target/classes/org/javaboy/vhr/config/FastDFSUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/target/classes/org/javaboy/vhr/config/FastDFSUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/target/classes/org/javaboy/vhr/config/LoginFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/target/classes/org/javaboy/vhr/config/LoginFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/target/classes/org/javaboy/vhr/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/target/classes/org/javaboy/vhr/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/target/classes/org/javaboy/vhr/config/VerificationCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/target/classes/org/javaboy/vhr/config/VerificationCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/target/classes/org/javaboy/vhr/controller/HrInfoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/target/classes/org/javaboy/vhr/controller/HrInfoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/target/classes/org/javaboy/vhr/controller/emp/EmpBasicController.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/target/classes/org/javaboy/vhr/controller/emp/EmpBasicController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/target/classes/org/javaboy/vhr/controller/salary/SobConfigController.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/target/classes/org/javaboy/vhr/controller/salary/SobConfigController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/target/classes/org/javaboy/vhr/controller/system/basic/DepartmentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/target/classes/org/javaboy/vhr/controller/system/basic/DepartmentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/target/classes/org/javaboy/vhr/converter/DateConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/target/classes/org/javaboy/vhr/converter/DateConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/vhr-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhr-web/vhr-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr/vhrserver/vhrserver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vhr/vhrserver/vhrserver.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +82,14 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunManager" selected="Spring Boot.VhrApplication">
@@ -82,6 +119,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596091621001</updated>
       <workItem from="1596091622362" duration="2672000" />
+      <workItem from="1596094779441" duration="2162000" />
     </task>
     <servers />
   </component>
@@ -89,41 +127,49 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1875" height="240" key="GridCell.Tab.0.bottom" timestamp="1596094630624">
+    <state x="736" y="259" key="FileChooserDialogImpl" timestamp="1596096712214">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596094630624" />
-    <state width="1875" height="240" key="GridCell.Tab.0.center" timestamp="1596094630624">
+    <state x="736" y="259" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596096712214" />
+    <state width="1875" height="429" key="GridCell.Tab.0.bottom" timestamp="1596097074708">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="240" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596094630624" />
-    <state width="1875" height="240" key="GridCell.Tab.0.left" timestamp="1596094630623">
+    <state width="1875" height="429" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596097074708" />
+    <state width="1875" height="429" key="GridCell.Tab.0.center" timestamp="1596097074708">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="240" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596094630623" />
-    <state width="1875" height="240" key="GridCell.Tab.0.right" timestamp="1596094630624">
+    <state width="1875" height="429" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596097074708" />
+    <state width="1875" height="429" key="GridCell.Tab.0.left" timestamp="1596097074708">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="240" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596094630624" />
-    <state width="1875" height="240" key="GridCell.Tab.1.bottom" timestamp="1596094630624">
+    <state width="1875" height="429" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596097074708" />
+    <state width="1875" height="429" key="GridCell.Tab.0.right" timestamp="1596097074708">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="240" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596094630624" />
-    <state width="1875" height="240" key="GridCell.Tab.1.center" timestamp="1596094630624">
+    <state width="1875" height="429" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596097074708" />
+    <state width="1875" height="429" key="GridCell.Tab.1.bottom" timestamp="1596097074708">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="240" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596094630624" />
-    <state width="1875" height="240" key="GridCell.Tab.1.left" timestamp="1596094630624">
+    <state width="1875" height="429" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596097074708" />
+    <state width="1875" height="429" key="GridCell.Tab.1.center" timestamp="1596097074708">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="240" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596094630624" />
-    <state width="1875" height="240" key="GridCell.Tab.1.right" timestamp="1596094630624">
+    <state width="1875" height="429" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596097074708" />
+    <state width="1875" height="429" key="GridCell.Tab.1.left" timestamp="1596097074708">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="240" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596094630624" />
+    <state width="1875" height="429" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596097074708" />
+    <state width="1875" height="429" key="GridCell.Tab.1.right" timestamp="1596097074708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="429" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596097074708" />
     <state x="539" y="253" key="IDE.errors.dialog" timestamp="1596091918197">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="539" y="253" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596091918197" />
+    <state x="439" y="93" key="SettingsEditor" timestamp="1596096720584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="439" y="93" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596096720584" />
   </component>
 </project>
